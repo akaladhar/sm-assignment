@@ -26,3 +26,5 @@ Above command will build the artifact and to run application locally, run
 gradle bootRun
 
 Above command can start a Tomcat instance and deploy application on local Tomcat and it can be tested with following URL.
+
+http://localhost:8080/getSavings?date=10/06/2004&mpg=10&mileage=200&fuel=petrol
