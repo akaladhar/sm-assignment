@@ -1,0 +1,6 @@
+Weekly Prices time series,,,,,,,,,,,,,
+,Pump price in pence/litre,,Duty rate in pence/litre,,VAT percentage rate,,,ULSP = Ultra low sulpur unleaded petrol,,,,,
+Date,ULSP,ULSD,ULSP,ULSD,ULSP,ULSD,,ULSD = Ultra low sulphur diesel,,,,,
+07/06/2004,74.59,76.77,45.82,45.82,17.5,17.5,,,,,,,
+14/06/2004,74.47,76.69,45.82,45.82,17.5,17.5,,ULSP  and ULSD,,,,,
+21/06/2004,74.42,76.62,45.82,45.82,17.5,17.5,,Duty rate per litre (�) from 7 March 2001,,,,,0.4582
