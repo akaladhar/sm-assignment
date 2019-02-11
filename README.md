@@ -13,11 +13,12 @@ mileage, mpg, fuel type and journey date(historic). Compares the current price o
 
 ## How to run
 
+Import project into IDE of your choice as a gradle project and run
+
 gradle clean build
 
-Above command will build the artifact.
-
+Above command will build the artifact and to run application locally, run
 
 gradle bootRun
 
-To run the application locally, above command can start a Tomcat instance and deploy application on local Tomcat and it can be tested with following URL.
+Above command can start a Tomcat instance and deploy application on local Tomcat and it can be tested with following URL.
