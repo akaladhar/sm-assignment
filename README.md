@@ -20,4 +20,4 @@ Above command will build the artifact.
 
 gradle bootRun
 
-To run the application locally, abpve command can deploy it on local Tomcat and it can be tested with following URL.
+To run the application locally, above command can start a Tomcat instance and deploy application on local Tomcat and it can be tested with following URL.
