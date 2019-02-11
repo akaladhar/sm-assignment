@@ -13,6 +13,10 @@ mileage, mpg, fuel type and journey date(historic). Compares the current price o
 
 ## How to run
 
+Clone source code from github using command
+
+https://github.com/akaladhar/sm-assignment.git
+
 Import project into IDE of your choice as a gradle project and run
 
 gradle clean build
