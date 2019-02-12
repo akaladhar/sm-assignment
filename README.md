@@ -28,3 +28,7 @@ Above command will build the artifact and to run application locally, run
 Above command can start a Tomcat instance and deploy application on local Tomcat and it can be tested with following URL.
 
 http://localhost:8080/getSavings?date=10/06/2004&mpg=10&mileage=200&fuel=petrol
+
+Application is hosted on AWS. This can be tested with following URL.
+
+http://ec2-54-197-68-210.compute-1.amazonaws.com:8080/getSavings?date=10/06/2004&mpg=10&mileage=200&fuel=petrol
