@@ -2,7 +2,7 @@
 This is Spring Boot based application with one REST end point. This end point takes parameters
 mileage, mpg, fuel type and journey date(historic). Compares the current price of fuel with that of the journey date and produces a message if the the same journey today is going to be cheaper/costler/same cost.
 
- - Historic prices are downloaded and kept in the resources.
+ - Historic prices are downloaded and kept in a file in resources folder.
  - Hardcoded the current prices as it is not required to keep them updated.
 
 ## Technical Debt
