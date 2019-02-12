@@ -19,11 +19,11 @@ https://github.com/akaladhar/sm-assignment.git
 
 Import project into IDE of your choice as a gradle project and run
 
-gradle clean build
+`gradle clean build`
 
 Above command will build the artifact and to run application locally, run
 
-gradle bootRun
+`gradle bootRun`
 
 Above command can start a Tomcat instance and deploy application on local Tomcat and it can be tested with following URL.
 
